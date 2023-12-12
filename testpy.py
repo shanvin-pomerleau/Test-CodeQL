@@ -12,3 +12,6 @@ user_input_password = "password123"
 
 # Calling the login function with user input
 login(user_input_username, user_input_password)
+
+
+var datadogAPIKey= "38339db033691fcadda4984f5d1acb5a"
